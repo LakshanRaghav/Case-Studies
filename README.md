@@ -13,7 +13,7 @@ All analytical frameworks, detection strategies, and response remediation plans 
 * **Threat Vector Classification:** Critical-Severity Zero-Day Exploitation / Arbitrary File-Write Primitive
 * **Core Technical Indicators Explored:** NTFS Alternate Data Streams (ADS), Process GUID Lineage Tracking, Filename Collision Masquerading (`T1036.001`), and Startup Directory Persistence Primitives (`T1547.001`).
 * **Governance Alignment:** NIST-CSF v2.0 (PR.DS-1, DE.AE-2, RS.RP-1) & PCI-DSS v4.0 Requirements (10.2.1, 10.2.4, 11.5.1).
-* 👉 **[Read the Full Tier-3 SOC Incident Post-Mortem & Forensic Audit Report](./SOC343-WINRAR-CVE-2025-8088-IR-REPORT.md)**
+* 👉 **[Read the Full Tier-3 SOC Incident Post-Mortem & Forensic Audit Report](./ZeroDay_WinRAR_Incident/SOC343-WINRAR-CVE-2025-8088-IR-REPORT.md)**
 
 ---
 
